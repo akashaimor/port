@@ -150,7 +150,7 @@
       margin-bottom: 1.5rem;
       /* Force exactly 2 lines excerpt text styling */
       display: -webkit-box;
-      
+      -webkit-line-clamp: 2;
       -webkit-box-orient: vertical;  
       overflow: hidden;
     }
@@ -300,7 +300,19 @@
       </div>
     </div>
   </section>
+<div class="project-card">
+  <h3>⚡ Serverless News & Weather Automation</h3>
+  <p>A automated backend script written in Python that runs on a daily cron schedule via GitHub Actions.</p>
+  
+  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/actions/workflows/daily-job.yml/badge.svg" alt="Build Status">
 
+  <div class="tech-tags">
+    <span>Python</span>
+    <span>REST APIs</span>
+    <span>GitHub Actions</span>
+    <span>SMTP</span>
+  </div>
+</div>
   <script>
     document.addEventListener("DOMContentLoaded", () => {
       const filterButtons = document.querySelectorAll(".filter-btn");
