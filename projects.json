@@ -7,6 +7,13 @@
         "link": "https://github.com/akashaimor/port"
     },
     {
+        "title": "Social Media Ui",
+        "description": "An interactive dashboard interface designed with modern CSS layouts.",
+        "category": "Code",
+        "tech": "Design",
+        "link": "https://github.com/akashaimor/social-media-ui"
+    },
+    {
         "title": "Wiki.Com",
         "description": "A project built and managed on my GitHub.",
         "category": "Web",
@@ -201,12 +208,5 @@
         "category": "Web",
         "tech": "JavaScript",
         "link": "https://github.com/akashaimor/AKcalc"
-    },
-    {
-        "title": "Skills Introduction To Github1",
-        "description": "My clone repository",
-        "category": "Code",
-        "tech": "Design",
-        "link": "https://github.com/akashaimor/skills-introduction-to-github1"
     }
 ]
